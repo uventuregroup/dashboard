@@ -1,0 +1,53 @@
+.ui-separator
+{
+	height: 14px;
+}
+
+.ui-body-a
+{
+	color: #7f7f7f;
+}
+
+.ui-bar
+{
+	padding: 0px;
+}
+
+.ui-span-font-xxl
+{
+	font-size:60px;
+}
+
+.ui-span-font-xl
+{
+	font-size:40px;
+}
+
+.ui-span-font-l
+{
+	font-size:30px;
+}
+
+.ui-span-font-m
+{
+	font-size:22px;
+}
+
+.ui-span-font-s
+{
+	font-size:18px;
+}
+
+.ui-span-font-xs
+{
+	font-size:15px;
+}
+
+.ui-span-font-xxs
+{
+	font-size:12px;
+}
+
+.canvas
+{
+}

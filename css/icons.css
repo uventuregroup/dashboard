@@ -1,0 +1,48 @@
+.nav-glyphish-icons .ui-btn .ui-btn-inner
+{
+	padding-top: 40px !important;
+}
+
+.nav-glyphish-icons .ui-btn .ui-icon
+{
+	width: 30px !important;
+	height: 30px !important;
+	margin-left: -15px !important;
+	box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-webkit-border-radius: 0 !important;
+	border-radius: 0 !important;
+}
+
+.ui-icon-people
+{
+	background:  url(images/icons-white/111-user@2x.png) 50% 50% no-repeat;
+  background-size: 24px 21px;
+  width: 24px;
+  height: 21px;
+  box-shadow: none;
+  background-color: transparent;
+  -webkit-box-shadow: none;
+}
+
+.ui-icon-organizations
+{
+	background:  url(images/icons-white/177-building.png) 50% 50% no-repeat;
+  background-size: 24px 24px;
+  width: 24px;
+  height: 24px;
+  box-shadow: none;
+  background-color: transparent;
+  -webkit-box-shadow: none;
+}
+
+.ui-icon-opportunities
+{
+	background:  url(images/icons-white/258-checkmark.png) 50% 50% no-repeat;
+  background-size: 19px 18px;
+  width: 19px;
+  height: 18px;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
